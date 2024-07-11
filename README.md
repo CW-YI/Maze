@@ -1,2 +1,2 @@
-# maze_game
-2022 maze game by python
+# MazeGame
+2022 Game project with python
